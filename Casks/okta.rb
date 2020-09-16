@@ -1,6 +1,6 @@
 cask 'okta' do
-  version '0.4.0'
-  sha256 '375f84ef225e71044d0bfdf0f2fb1705b8bb730d1e04718e244fd57c690fbbad'
+  version '0.5.0'
+  sha256 '524ae8a0a2669efac7b908ec7132734bb7a3908564afb74d2992dc3840f067fd'
 
   url "https://github.com/oktadeveloper/okta-cli/releases/download/okta-cli-tools-#{version}/okta-cli-macos-#{version}-x86_64.zip"
   appcast 'https://github.com/oktadeveloper/okta-cli/releases.atom'
